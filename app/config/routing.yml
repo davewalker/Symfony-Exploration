@@ -1,3 +1,0 @@
-_welcome:
-    pattern:  /
-    defaults: { _controller: DaveWalkerPortfolioBundle:Welcome:index }
