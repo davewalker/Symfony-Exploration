@@ -1,0 +1,7 @@
+PortfolioBundle_homepage:
+    pattern:  /
+    defaults: { _controller: PortfolioBundle:Default:index }
+    
+PortfolioBundle_contact:
+    pattern:  /contact
+    defaults: { _controller: PortfolioBundle:Contact:index }
